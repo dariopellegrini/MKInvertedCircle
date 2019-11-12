@@ -4,4 +4,4 @@ Subclasses of MKOverlay and MKOverlayRenderer, in order to add on a MKMapView an
 
 ![alt tag](https://raw.githubusercontent.com/dariopellegrini/MKInvertedCircle/master/screen1.png)
 
-Thanks to [Valerii's answer] (http://stackoverflow.com/questions/9049790/add-inverted-circle-overlay-to-map-view)
+Thanks to [Valerii's answer](http://stackoverflow.com/questions/9049790/add-inverted-circle-overlay-to-map-view)
